@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Puri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+I'm Deepak Puri from Pune and I do coding with the help of python, ML, and Deep learning algorithms. I love to work on Data and find a solution for particular problems. I enjoy learning new things and using those in the real world.
+
+Skills: Python, Social Media Mining, Data Visualization, Fundamental Statistics, Natural Language Processing/Machine Learning, Microsoft Excel, ML, DL and Interpersonal skills
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purideepak462&label=Profile%20views&color=0e75b6&style=flat" alt="purideepak462" /> </p>
 
