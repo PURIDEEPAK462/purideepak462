@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Puri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and QA from India</h3>
 "I'm Deepak Puri from Pune, and I code using Java, JavaScript, Python, Machine Learning, and Deep Learning algorithms. I love working with data and finding solutions to specific problems. I also work on validating weather products that we deliver with 100% accuracy. I enjoy learning new things and applying them in the real world."
 
 Skills: Python, Social Media Mining, Data Visualization, Fundamental Statistics, Natural Language Processing/Machine Learning, Microsoft Excel, ML, DL and Interpersonal skills
